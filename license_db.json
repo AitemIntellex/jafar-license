@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T19:20:41.298976+00:00",
+  "updated": "2026-05-14T19:26:39.560359+00:00",
   "keys": {
     "jafar-7249d0fa64ae5889ca9af33e22c6a2cc": {
       "status": "active",
@@ -14,6 +14,12 @@
       "expires": null,
       "revoked": "2026-05-14",
       "reason": "тестовый ключ"
+    },
+    "jafar-7f1af34372f356ec9aeea4b39657fe33": {
+      "status": "active",
+      "user": "",
+      "issued": "2026-05-14",
+      "expires": null
     }
   }
 }
