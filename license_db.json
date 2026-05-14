@@ -1,9 +1,15 @@
 {
-  "updated": "2026-05-14T19:10:39.903371+00:00",
+  "updated": "2026-05-14T19:20:23.040186+00:00",
   "keys": {
     "jafar-7249d0fa64ae5889ca9af33e22c6a2cc": {
       "status": "active",
       "user": "AitemIntellex",
+      "issued": "2026-05-14",
+      "expires": null
+    },
+    "jafar-bbc20d22cdee9b891e03310ec469b518": {
+      "status": "active",
+      "user": "",
       "issued": "2026-05-14",
       "expires": null
     }
